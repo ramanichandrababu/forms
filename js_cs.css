@@ -1,0 +1,12 @@
+.container
+{
+	background: rgba(146, 142, 142, 0.589);
+		/* background-size: 100px 80px; */
+		background-size: cover;
+		background-color: #F08080;
+		position:absolute;
+		border-radius: none;
+        top:50%;
+        left:50%;
+       transform:translateX(-50%) translateY(-50%);
+}
